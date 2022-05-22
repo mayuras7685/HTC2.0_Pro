@@ -56,7 +56,7 @@ camps based on availability of resources. We harness the power of Deep Learning 
 Blockchain to provide both efficiency and security in the identification process.
 
 
-<img src="Screenshots/login-page.jpg" alt="Login Page"/>  <img src="Screenshots/ds1.jpg" alt="Dashboard Page"/> <img src="Screenshots/idn1.jpg" alt="identify Page"/> <img src="Screenshots/info_confirm-page.jpg" alt="Info_confirm Page"/> 
+<img src="Screenshots/login-page.jpg" alt="Login Page"/>  <img src="Screenshots/ds1.jpg" alt="Dashboard Page"/> <img src="Screenshots/idn1.jpg" alt="identify Page"/> <img src="Screenshots/info_form-page.jpg" alt="Info_form Page"/> <img src="Screenshots/info_confirm-page.jpg" alt="Info_confirm Page"/> <img src="Screenshots/manage-page.jpg" alt="manage Page"/> 
 
 <!-- LICENSE -->
 ## License
