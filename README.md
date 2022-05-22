@@ -56,11 +56,7 @@ camps based on availability of resources. We harness the power of Deep Learning 
 Blockchain to provide both efficiency and security in the identification process.
 
 
-<img src="Screenshots/login-page.jpg" alt="Login Page" width="500" height="500""/> 
-<img src="Screenshots/login-page.jpg" alt="Login Page" width="500" height="500""/> 
-<img src="Screenshots/login-page.jpg" alt="Login Page" width="500" height="500""/> 
-<img src="Screenshots/login-page.jpg" alt="Login Page" width="500" height="500""/> 
-<img src="Screenshots/login-page.jpg" alt="Login Page" width="500" height="500""/>                                                                                
+<img src="Screenshots/login-page.jpg" alt="Login Page"/>  
 
 <!-- LICENSE -->
 ## License
@@ -73,4 +69,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 * Mayur Asodara - [linkedIn profile](https://www.linkedin.com/in/mayur-asodara-366067206), email_id - mayurasodara@gmail.com
 
-Project Link: [[https://github.com/mayuras7685/Under-water-trash-plastic-detection.git](https://github.com/mayuras7685/HTC2.0_Pro.git)]([https://github.com/mayuras7685/Under-water-trash-plastic-detection.git](https://github.com/mayuras7685/HTC2.0_Pro.git))
+Project Link: [https://github.com/mayuras7685/Under-water-trash-plastic-detection.git](https://github.com/mayuras7685/Under-water-trash-plastic-detection.git)
