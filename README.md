@@ -69,4 +69,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 * Mayur Asodara - [linkedIn profile](https://www.linkedin.com/in/mayur-asodara-366067206), email_id - mayurasodara@gmail.com
 
-Project Link: [https://github.com/mayuras7685/Under-water-trash-plastic-detection.git](https://github.com/mayuras7685/Under-water-trash-plastic-detection.git)
+Project Link: [https://github.com/mayuras7685/HTC2.0_Pro.git](https://github.com/mayuras7685/HTC2.0_Pro.git)
