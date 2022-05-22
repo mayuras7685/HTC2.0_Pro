@@ -2,27 +2,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-       
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    
-  </ol>
-</details>
+ 
 
 
 <!-- ABOUT THE PROJECT -->
@@ -99,7 +79,7 @@ camps based on availability of resources. We harness the power of Deep Learning 
 Blockchain to provide both efficiency and security in the identification process.
 
 
-<img src="screenshots/plastic-bag1.jpg" alt="Login Page" width="800" height="800"/>   <img src="output images/plastic-bag.jpg" alt="underwater waste detection image" width="400" height="400"/> <img src="output images/plastic-cup.jpg" alt="underwater waste detection image" width="400" height="400"/>
+<img src="screenshots/login-page.jpg" alt="Login Page" width="800" height="800"/>   <img src="output images/plastic-bag.jpg" alt="underwater waste detection image" width="400" height="400"/> <img src="output images/plastic-cup.jpg" alt="underwater waste detection image" width="400" height="400"/>
 
 <!-- LICENSE -->
 ## License
