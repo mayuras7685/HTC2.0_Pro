@@ -1,9 +1,5 @@
 # Refugee AID system
 
-<!-- TABLE OF CONTENTS -->
-<details>
- 
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -49,26 +45,7 @@ an important future step for our app
 * node js
 
 
-### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/ultralytics/yolov5.git
-   ```
-2. Install required dependensies
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. run program 
-  ```sh
-  python app.py
-  ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 *Our app helps refugee organizations efficiently and securely identify refugees who come to
@@ -79,7 +56,7 @@ camps based on availability of resources. We harness the power of Deep Learning 
 Blockchain to provide both efficiency and security in the identification process.
 
 
-<img src="screenshots/login-page.jpg" alt="Login Page" width="800" height="800"/>   <img src="output images/plastic-bag.jpg" alt="underwater waste detection image" width="400" height="400"/> <img src="output images/plastic-cup.jpg" alt="underwater waste detection image" width="400" height="400"/>
+<img src="Screenshots/login-page.jpg" alt="Login Page" />  
 
 <!-- LICENSE -->
 ## License
